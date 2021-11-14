@@ -8,13 +8,12 @@ Model used is as follows:
 Hyperparamaters for lstm model:
 
 batch size=256
-learning rate=0.001
 num epoch=10
 
 Hyperparamaters for probe model:
 
 batch size= 100
-learning rate=0.001
+
 
 
 word embedding- 65%
